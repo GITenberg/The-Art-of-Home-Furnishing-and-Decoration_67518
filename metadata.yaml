@@ -1,11 +1,16 @@
 _repo: The-Art-of-Home-Furnishing-and-Decoration_67518
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67518-h/images/cover.jpg
 creator:
   author:
     agent_name: Parsons, Frank Alvah
     gutenberg_agent_id: '54304'
     url: http://www.gutenberg.org/2009/agents/54304
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67518#The-Art-of-Home-Furnishing-and-Decoration
 gutenberg_issued: '2022-02-28'
 identifiers:
   gutenberg: '67518'
